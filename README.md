@@ -1,7 +1,6 @@
 # RuffNotes
 
  Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like
- 
  (.txt .doc .html)
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
@@ -18,7 +17,8 @@
 | HTML | javaScript | Bootstrap |
 
  <hr>
+ 
 <b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
   
   <h3> Take A Look At: </h3>
- <b> <a href="https://www.irshadali.site"> Demo </b>
+ <b> <a href="https://ruff.netlify.com"> Demo </b>
