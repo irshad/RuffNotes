@@ -1,0 +1,26 @@
+{
+  "name": "Ruff Notes",
+  "short_name": "Ruff Notes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#584b4f",
+  "theme_color": "#78af9f" ,
+  "description": "A ruff notes for you.",
+  "icons": [
+    {
+      "src": "img/logo512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ]
+}
