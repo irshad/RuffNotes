@@ -5,11 +5,11 @@
  
  ## Wishlist
  
- ---
+ `
  Cloud Backup
  PDF
  PWA
- ---
+`
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
 
