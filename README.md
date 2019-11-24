@@ -3,6 +3,14 @@
  Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like
  (.txt .doc .html)
  
+ ## Wishlist
+ 
+ ---
+ Cloud Backup
+ PDF
+ PWA
+ ---
+ 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
 
 # Also Check this a  Progressive Web App (Coming soon...)
