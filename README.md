@@ -11,9 +11,7 @@
  Todo listing,
  & more..
 
- `Hi. I'm Irshad Ali a hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology.
-
-Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator.`
+ ` Hi. I'm Irshad Ali a hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator `
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
 
