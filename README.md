@@ -1,8 +1,8 @@
-Hi. I'm Irshad Ali a hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator
+Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator
 
 # RuffNotes
 
- Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like
+ Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like <br>
  (.txt .doc .html)
  
  ## Wishlist
@@ -15,7 +15,7 @@ Hi. I'm Irshad Ali a hard-working engineering graduate specialized in "Electroni
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
 
-# Also Check this a  Progressive Web App (Coming soon...)
+# Also Check this a  Progressive Web App
 
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
