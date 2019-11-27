@@ -22,6 +22,7 @@ window.onload = () => {
             }
         });
 }
-// sw
+
+// service  Worker
 navigator.serviceWorker && navigator.serviceWorker.register('SW.js').then(function (registration) {
 });
