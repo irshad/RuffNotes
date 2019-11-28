@@ -24,11 +24,13 @@ color: #efdab9;
     border-color:#efdab9;
     background-color: #efdab9;
     font-family: "parse-grotesk-mono-bold", sans-serif;
+    color: #78af9f;
 }
 .btn-outline-dark:hover{
     background-color: #78af9f;
     border-color:#efdab9;
     color:#584b4f;
+    color: #efdab9;
     box-shadow: none !important;
 }
 h2{
@@ -39,7 +41,27 @@ h4{
     text-align: center;
     font-family: "parse-grotesk-mono-bold", sans-serif;
 }
-
+h5{
+    font-family: "parse-grotesk-mono-bold", sans-serif;
+}
+.lines{
+    font-size: 18px !important;
+     width: 25px;
+    height: 25px;
+}
+.btn-outline-light{
+    border-color: #efdab9;
+    box-shadow: none !important;
+    color: #efdab9;
+}
+.btn-outline-light:hover{
+    background-color: #78af9f;
+    border-color: #efdab9;
+    color: #efdab9;
+}
+.card-body{
+    background-color: #78af9f;
+}
 #text {
     color:#efdab9;
     display: block;
