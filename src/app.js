@@ -1,3 +1,4 @@
+// Download Function
 function downloadFile(filename, content) {
     const element = document.createElement('a');
     const blob = new Blob([content], { type: 'plain/text' });
