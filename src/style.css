@@ -45,11 +45,6 @@ h5{
     font-size: 23px;
     font-family: "parse-grotesk-mono-bold", sans-serif;
 }
-.lines{
-    font-size: 18px !important;
-     width: 25px;
-    height: 25px;
-}
 .btn-outline-light{
     border-color: #efdab9;
     box-shadow: none !important;
@@ -81,9 +76,6 @@ h5{
     background-color: #78af9f;
     box-shadow: none;
 }
-span{
-    font-family: "parse-grotesk-mono-bold", sans-serif;
-}
 hr{
    background-color: #efdab9;
 }
@@ -97,7 +89,6 @@ p{
     text-decoration: none;
     color: #efdab9;
 }
-
 .link{
     font-family: "parse-grotesk-mono-bold", sans-serif;
     color:#78af9f;
