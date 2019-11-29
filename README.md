@@ -3,7 +3,7 @@ Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "El
 # RuffNotes
 
  Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like <br>
- (.txt .doc .html)
+ `(.txt .doc .html .css .js .json .md)`
  
  ## Wishlist
  
