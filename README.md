@@ -9,7 +9,6 @@ Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "El
  
  Cloud Backup,
  PDF,
- PWA,
  Todo listing,
  & more..
  
