@@ -1,4 +1,4 @@
-Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator
+Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "Electronic Communication Engineering" and passionate about computers and technology. Along with my graduation i learned UI development `` HTML, CSS, Javascript, JQuery, ReactJs and also being a designer i am very good at Photoshop & Illustrator``
 
 # RuffNotes
 
