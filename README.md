@@ -28,6 +28,8 @@ Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "El
  <hr>
  
 <b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
+ # Fellow me on DEV
+ <b> <a href="https://dev.to/phonerefer"> DEV </b>
   
   <h3> Take A Look At: </h3>
  <b> <a href="https://ruff.netlify.com"> Demo </b>
