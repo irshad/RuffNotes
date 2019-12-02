@@ -21,7 +21,7 @@ Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "El
  
 # Technologies i used to make this site
  
-| ![HTML5](https://blogsimages.adobe.com/techcomm/files/2012/07/HTML5.png "HTML5")        | ![javaScript](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_80/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "javaScript")           | ![Bootstrap](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_80,w_80/v1573154214/irshadali.site/szlkssbzacxdjcu5peky.png "Bootstrap")  |
+| ![HTML5](https://res.cloudinary.com/phonerefer/image/upload/c_scale,q_100,w_92/v1575265107/rqjnq1br0nsy9vibulu6.png "HTML5")        | ![javaScript](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_80/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "javaScript")           | ![Bootstrap](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_80,w_80/v1573154214/irshadali.site/szlkssbzacxdjcu5peky.png "Bootstrap")  |
 |:---:|:---:|:---:|
 | HTML | javaScript | Bootstrap |
 
