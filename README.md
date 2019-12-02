@@ -25,6 +25,23 @@ Hi. I'm <b>Irshad Ali</b> a hard-working engineering graduate specialized in "El
 |:---:|:---:|:---:|
 | HTML | javaScript | Bootstrap |
 
+## Contributing
+
+Development happens in the open on GitHub. We're thankful to the community for
+contributing any improvements.
+
+<table>
+  <tbody>
+    <tr>
+        <td align="center" valign="top">
+        <img width="100" height="100" src="https://res.cloudinary.com/phonerefer/image/upload/v1574322245/irshadali.site/yr6f8np7kpqmrq2safly.jpg">
+        <br>
+        <a href="https://www.irshadali.site">Irshad Ali</a>
+      </td>
+     </tr>
+  </tbody>
+</table>
+
  <hr>
  
 <b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
