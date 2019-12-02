@@ -38,12 +38,6 @@ contributing any improvements.
         <br>
         <a href="https://www.irshadali.site">Irshad Ali</a>
       </td>
-
-        <td align="center" valign="top">
-        <img width="100" height="100" src="https://res.cloudinary.com/phonerefer/image/upload/v1574599377/sgujlff8ng1zd7sadkp7.png">
-        <br>
-        <a href="https://www.phonerefer.com">TeamIamDEV</a>
-      </td>
      </tr>
   </tbody>
 </table>
@@ -51,8 +45,6 @@ contributing any improvements.
  <hr>
  
 <b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
- # Fellow me on DEV
- <b> <a href="https://dev.to/phonerefer"> DEV </b>
   
   <h3> Take A Look At: </h3>
  <b> <a href="https://ruff.netlify.com"> Demo </b>
