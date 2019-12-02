@@ -45,6 +45,5 @@ contributing any improvements.
  <hr>
  
 <b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
-  
-  <h3> Take A Look At: </h3>
+  <hr>
  <b> <a href="https://ruff.netlify.com"> Demo </b>
