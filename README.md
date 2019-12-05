@@ -48,4 +48,4 @@ contributing any improvements.
  © K IRSHAD ALI, PhoneRefer Media Inc
   
  Licensed under the  [MIT License](LICENSE)
- ![License](https://mpng.pngfly.com/20180324/ljq/kisspng-mit-license-bsd-licence-open-source-license-copyright-5ab65f454caed4.0942099715219013813141.jpg "License")
+ ![License](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_150/v1575520731/ruff/lgiktt3ezby86zk0413u.png "License")
