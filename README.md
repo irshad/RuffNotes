@@ -1,7 +1,9 @@
-# RuffNotes
-
- Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like <br>
- `(.txt .doc .html .css .js .json .md)`
+# What's RuffNotes?
+Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like
+ ```
+ (.txt .doc .html .css .js .json .md)
+ ```
+ Just type your text and specify the file **Name** along with the desire fail **Format** you want to download and that's it. Hit the download button and take your file.
  
  ## Wishlist
  
@@ -48,5 +50,6 @@ contributing any improvements.
  © K IRSHAD ALI, PhoneRefer Media Inc
  
  Licensed under the  [MIT License](LICENSE) 
- <br>
+ 
+
  ![License](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_150/v1575520731/ruff/lgiktt3ezby86zk0413u.png "License")
