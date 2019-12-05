@@ -1,9 +1,12 @@
 # What's RuffNotes?
 Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like
  ```
- (.txt .doc .html .css .js .json .md)
+ .txt .doc .html .css .js .json .md (more coming...)
  ```
  Just type your text and specify the file **Name** along with the desire fail **Format** you want to download and that's it. Hit the download button and take your file.
+ 
+## What about your privacy policy?
+Simple — neither of us store any user data what so ever.
  
  ## Wishlist
  
@@ -14,12 +17,12 @@ Ruff Notes is simple single sheet note taking application that helps you to take
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
 
-# Also Check this a  Progressive Web App
+## Also Check this a  Progressive Web App
 
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
  
-# Technologies i used to make this site
+## Technologies i used to make this site
  
 | ![HTML5](https://res.cloudinary.com/phonerefer/image/upload/c_scale,q_100,w_92/v1575265107/rqjnq1br0nsy9vibulu6.png "HTML5")        | ![javaScript](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_80/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "javaScript")           | ![Bootstrap](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_80,w_80/v1573154214/irshadali.site/szlkssbzacxdjcu5peky.png "Bootstrap")  |
 |:---:|:---:|:---:|
@@ -42,7 +45,7 @@ contributing any improvements.
   </tbody>
 </table>
  
-<b>This Is "Irshad Ali" Senior Director of Design & Development at [PhoneRefer](https://www.phonerefer.com)
+This Is "Irshad Ali" Senior Director of Design & Development at [PhoneRefer](https://www.phonerefer.com)
  
 
 ## License & Copyright
