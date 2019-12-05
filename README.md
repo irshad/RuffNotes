@@ -47,3 +47,6 @@ contributing any improvements.
 <b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
   <hr>
  <b> <a href="https://ruff.netlify.com"> Demo </b>
+  ## License & Copyright
+  ### © K IRSHAD ALI, PhoneRefer Media inc
+  Licensed under the [MIT License] (LICENSE)
