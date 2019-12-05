@@ -41,12 +41,12 @@ contributing any improvements.
      </tr>
   </tbody>
 </table>
-
  
 <b>This Is "Irshad Ali" Senior Director of Design & Development at [PhoneRefer](https://www.phonerefer.com)
- 
-  ## License & Copyright
+ <hr>
+
+## License & Copyright
   
-  ##### © K IRSHAD ALI, PhoneRefer Media Inc
+© K IRSHAD ALI, PhoneRefer Media Inc
   
-  Licensed under the  [MIT License](LICENSE)
+Licensed under the  [MIT License](LICENSE)
