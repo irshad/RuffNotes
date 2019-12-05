@@ -43,9 +43,8 @@ contributing any improvements.
 </table>
 
  
-<b>This Is "Irshad Ali" Senior Director of Design & Development at <a href="https://www.phonerefer.com"> PhoneRefer </b>
-  <hr>
-  
+<b>This Is "Irshad Ali" Senior Director of Design & Development at [PhoneRefer](https://www.phonerefer.com)
+ 
   ## License & Copyright
   
   ##### © K IRSHAD ALI, PhoneRefer Media Inc
