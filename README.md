@@ -50,6 +50,6 @@ contributing any improvements.
   
   ## License & Copyright
   
-  #### © K IRSHAD ALI, PhoneRefer Media inc
+  ##### © K IRSHAD ALI, PhoneRefer Media Inc
   
-  Licensed under the [MIT License](LICENSE)
+  Licensed under the  [MIT License](LICENSE)
