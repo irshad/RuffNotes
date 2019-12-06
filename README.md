@@ -31,7 +31,7 @@ Simple — neither of us store any user data what so ever.
 ## Contributing
 
 Development happens in the open on GitHub. We're thankful to the community for
-contributing any improvements.
+contributing any improvements. **We Wellcome You To Join Development**
 
 <table>
   <tbody>
