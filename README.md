@@ -50,7 +50,7 @@ This Is "Irshad Ali" Senior Director of Design & Development at [**PhoneRefer**]
 
 ## License & Copyright
   
- © K IRSHAD ALI, PhoneRefer Media Inc <br> 
+ © K IRSHAD ALI, PhoneRefer Media Inc 
  Licensed under the  [MIT License](LICENSE) 
  
 
