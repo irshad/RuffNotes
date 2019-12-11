@@ -19,6 +19,9 @@ color: #efdab9;
     border: none;
     background-color: #78af9f;
 }
+#filename{
+    border-radius: 4px 0px 0px 4px;
+}
 
 .secbtn{
     border-color:#efdab9;
