@@ -20,13 +20,13 @@ color: #efdab9;
     background-color: #78af9f;
 }
 
-.btn-outline-dark{
+.secbtn{
     border-color:#efdab9;
     background-color: #efdab9;
     font-family: "parse-grotesk-mono-bold", sans-serif;
     color: #78af9f;
 }
-.btn-outline-dark:hover{
+.secbtn:hover{
     background-color: #78af9f;
     border-color:#efdab9;
     color:#584b4f;
@@ -45,12 +45,12 @@ h5{
     font-size: 23px;
     font-family: "parse-grotesk-mono-bold", sans-serif;
 }
-.btn-outline-light{
+.fstbtn{
     border-color: #efdab9;
     box-shadow: none !important;
     color: #efdab9;
 }
-.btn-outline-light:hover{
+.fstbtn:hover{
     background-color: #78af9f;
     border-color: #efdab9;
     color: #efdab9;
