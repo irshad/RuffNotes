@@ -17,7 +17,7 @@ Simple — neither of us store any user data what so ever.
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
 
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fphonerefer%2FRuffNotes)
+
 ## Also Check this a  Progressive Web App
 
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
@@ -48,6 +48,8 @@ contributing any improvements. **We Wellcome You To Join Development**
  
 This Is "Irshad Ali" Senior Director of Design & Development at [**PhoneRefer**](https://www.phonerefer.com)
  
+## Sharing Is Caring
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fphonerefer%2FRuffNotes)
 
 ## License & Copyright
   
