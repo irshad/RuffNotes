@@ -1,6 +1,6 @@
 [![RuffNotes](https://img.shields.io/badge/RuffNote-Visit-orange)](https://ruff.netlify.com "RuffNotes")
 [![Irshad](https://img.shields.io/badge/build--by-Irshad-green)](https://www.irshadali.site "Irshad Ali")
-[![Users](https://img.shields.io/badge/Users-750-yellow)"Users"]
+[![Users](https://img.shields.io/badge/Users-750-yellow)](https://ruff.netlify.com "Users")
 # What Is RuffNotes?
 Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like
  ```
