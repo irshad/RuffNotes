@@ -1,3 +1,8 @@
+[![Users](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/phonerefer/RuffNotes/blob/master/README.md) 
+[![RuffNotes](https://img.shields.io/badge/RuffNote-Visit-orange)](https://ruff.netlify.com "RuffNotes")
+[![Irshad](https://img.shields.io/badge/build--by-Irshad-green)](https://www.irshadali.site "Irshad Ali")
+[![Users](https://img.shields.io/badge/Users-750-yellow)](https://ruff.netlify.com "Users")
+
 # What Is RuffNotes?
 Ruff Notes is simple single sheet note taking application that helps you to take notes in different formats like
  ```
@@ -16,6 +21,7 @@ Simple — neither of us store any user data what so ever.
  & more..
  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fef9cd40-8d91-4f0d-adf8-63fac4f49cc1/deploy-status)](https://app.netlify.com/sites/ruff/deploys)
+
 
 ## Also Check this a  Progressive Web App
 
@@ -47,6 +53,8 @@ contributing any improvements. **We Wellcome You To Join Development**
  
 This Is "Irshad Ali" Senior Director of Design & Development at [**PhoneRefer**](https://www.phonerefer.com)
  
+## Sharing Is Caring
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fphonerefer%2FRuffNotes)
 
 ## License & Copyright
   
