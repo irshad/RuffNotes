@@ -4,10 +4,9 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#584b4f",
-  "theme_color": "#584b4f" ,
+  "theme_color": "#584b4f",
   "description": "A ruff notes for you.",
-  "icons": [
-    {
+  "icons": [{
       "src": "img/logo512x512.png",
       "sizes": "512x512",
       "type": "image/png"
