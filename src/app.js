@@ -1,7 +1,9 @@
 // Download Function
 function downloadFile(filename, content) {
     const element = document.createElement('a');
-    const blob = new Blob([content], { type: 'plain/text' });
+    const blob = new Blob([content], {
+        type: 'plain/text'
+    });
     // "type" in the line above is a MIME type
     // It can have a different value, based on a file you want to save
     const fileUrl = URL.createObjectURL(blob);
@@ -25,5 +27,4 @@ window.onload = () => {
 }
 
 // service  Worker
-navigator.serviceWorker && navigator.serviceWorker.register('SW.js').then(function (registration) {
-});
+navigator.serviceWorker && navigator.serviceWorker.register('SW.js').then(function (registration) {});
