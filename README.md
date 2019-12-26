@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/phonerefer/RuffNotes.svg?branch=master)](https://travis-ci.org/phonerefer/RuffNotes)
 [![Users](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/phonerefer/RuffNotes/blob/master/README.md) 
 [![RuffNotes](https://img.shields.io/badge/RuffNote-Visit-orange)](https://ruff.netlify.com "RuffNotes")
 [![Irshad](https://img.shields.io/badge/build--by-Irshad-green)](https://www.irshadali.site "Irshad Ali")
