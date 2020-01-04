@@ -27,7 +27,6 @@ Simple — neither of us store any user data what so ever.
 
 ![PWA](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_50,w_150/v1573154075/irshadali.site/wd0dusiqooqdg81ygqxj.png "PWA")
 
- 
 ## Technologies used to make this site
  
 | ![HTML5](https://res.cloudinary.com/phonerefer/image/upload/c_scale,q_100,w_92/v1575265107/rqjnq1br0nsy9vibulu6.png "HTML5")        | ![javaScript](https://res.cloudinary.com/phonerefer/image/upload/c_scale,w_80/v1573154067/irshadali.site/gwoomqvgbwj9k2pxplbd.png "javaScript")           | ![Bootstrap](https://res.cloudinary.com/phonerefer/image/upload/c_scale,h_80,w_80/v1573154214/irshadali.site/szlkssbzacxdjcu5peky.png "Bootstrap")  |
