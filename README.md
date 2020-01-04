@@ -56,9 +56,10 @@ This Is "Irshad Ali" Senior Director of Design & Development at [**PhoneRefer**]
 ## Sharing Is Caring
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fphonerefer%2FRuffNotes)
 
-## Social Networks
-+ [**INSTAGRAM**](https://instagram.com/imirshadali)
+## Follow Me On
++ [**Instagram**](https://instagram.com/imirshadali)
 + [**Twitter**](https://twitter.com/imirshadali)
++ [**Dev.to**](https://dev.to/phonerefer)
 
 ## License & Copyright
   
