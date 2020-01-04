@@ -57,11 +57,10 @@ This Is "Irshad Ali" Senior Director of Design & Development at [**PhoneRefer**]
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fphonerefer%2FRuffNotes)
 
 ## Follow Me On
-|:-------------------------------------------------------:|
 + [**Instagram**](https://instagram.com/imirshadali)
 + [**Twitter**](https://twitter.com/imirshadali)
 + [**Dev.to**](https://dev.to/phonerefer)
-|:-------------------------------------------------------:|
+
 ## License & Copyright
   
  © K IRSHAD ALI, PhoneRefer Media Inc 
