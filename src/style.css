@@ -78,7 +78,7 @@ h5 {
     width: 100%;
     /*resize: none;*/
     margin-bottom: 20px;
-    height: 390px;
+    height: 395px;
     padding: 10px;
     font-size: 18px;
     background-color: #78af9f;
@@ -108,7 +108,9 @@ p {
     text-decoration: none;
     color: #efdab9;
 }
-
+.love{
+    color: #efdab9;
+}
 .link {
     font-family: "parse-grotesk-mono-bold", sans-serif;
     color: #78af9f;
